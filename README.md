@@ -412,18 +412,6 @@ Definir niveles de log (info, warn, error) y anonimizar datos.
 
 ---
 
-## 📋 Rúbrica de Evaluación (50 pts)
-
-| Criterio                      | Descripción                                                        | Ponderación   |
-| ----------------------------- | ------------------------------------------------------------------ | ------------- |
-| 1. Comprensión del Antipatrón | Explica qué es y por qué se considera una mala práctica.           | 10            |
-| 2. Ejemplo Técnico            | Muestra un ejemplo real o de código donde ocurra el antipatrón.    | 10            |
-| 3. Consecuencias              | Analiza los efectos en mantenimiento, rendimiento o escalabilidad. | 10            |
-| 4. Solución Correctiva        | Propone buenas prácticas o patrones alternativos.                  | 10            |
-| 5. Presentación               | Claridad, lenguaje técnico y control del tiempo.                   | 10            |
-| 🟢 **Total**                  |                                                                    | **50 puntos** |
-
----
 
 **Autor:** Rolando Jassiel Castro Hernandez
 **Materia:** Diseño de Software
